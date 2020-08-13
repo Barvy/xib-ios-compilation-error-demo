@@ -1,0 +1,76 @@
+Microsoft Visual Studio Enterprise 2019
+Version 16.7.1
+VisualStudio.16.Release/16.7.1+30406.217
+Microsoft .NET Framework
+Version 4.8.04084
+
+Installed Version: Enterprise
+
+Azure App Service Tools v3.0.0   16.7.532.28833
+Azure App Service Tools v3.0.0
+
+C# Tools   3.7.0-6.20375.2+34202cc2f3e869fd70a26d8237f4552cf9e192cf
+C# components used in the IDE. Depending on your project type and settings, a different version of the compiler may be used.
+
+Common Azure Tools   1.10
+Provides common services for use by Azure Mobile Services and Microsoft Azure Tools.
+
+Extensibility Message Bus   1.2.6 (master@34d6af2)
+Provides common messaging-based MEF services for loosely coupled Visual Studio extension components communication and integration.
+
+IntelliCode Extension   1.0
+IntelliCode Visual Studio Extension Detailed Info
+
+Microsoft JVM Debugger   1.0
+Provides support for connecting the Visual Studio debugger to JDWP compatible Java Virtual Machines
+
+Microsoft MI-Based Debugger   1.0
+Provides support for connecting Visual Studio to MI compatible debuggers
+
+Mono Debugging for Visual Studio   16.7.5 (112c7bc)
+Support for debugging Mono processes with Visual Studio.
+
+NuGet Package Manager   5.7.0
+NuGet Package Manager in Visual Studio. For more information about NuGet, visit https://docs.nuget.org/
+
+ProjectServicesPackage Extension   1.0
+ProjectServicesPackage Visual Studio Extension Detailed Info
+
+Visual Basic Tools   3.7.0-6.20375.2+34202cc2f3e869fd70a26d8237f4552cf9e192cf
+Visual Basic components used in the IDE. Depending on your project type and settings, a different version of the compiler may be used.
+
+Visual F# Tools 10.10.0.0 for F# 4.7   16.7.0-beta.20361.3+3ef6f0b514198c0bfa6c2c09fefe41a740b024d5
+Microsoft Visual F# Tools 10.10.0.0 for F# 4.7
+
+Visual Studio Code Debug Adapter Host Package   1.0
+Interop layer for hosting Visual Studio Code debug adapters in Visual Studio
+
+VisualStudio.DeviceLog   1.0
+Information about my package
+
+VisualStudio.Foo   1.0
+Information about my package
+
+VisualStudio.Mac   1.0
+Mac Extension for Visual Studio
+
+Xamarin   16.7.000.440 (d16-7@358f3c6)
+Visual Studio extension to enable development for Xamarin.iOS and Xamarin.Android.
+
+Xamarin Designer   16.7.0.495 (remotes/origin/d16-7@79c0c522c)
+Visual Studio extension to enable Xamarin Designer tools in Visual Studio.
+
+Xamarin Templates   16.7.85 (1bcbbdf)
+Templates for building iOS, Android, and Windows apps with Xamarin and Xamarin.Forms.
+
+Xamarin.Android SDK   11.0.0.3 (d16-7/aca845b)
+Xamarin.Android Reference Assemblies and MSBuild support.
+    Mono: 83105ba
+    Java.Interop: xamarin/java.interop/d16-7@1f3388a
+    ProGuard: Guardsquare/proguard/proguard6.2.2@ebe9000
+    SQLite: xamarin/sqlite/3.32.1@1a3276b
+    Xamarin.Android Tools: xamarin/xamarin-android-tools/d16-7@017078f
+
+
+Xamarin.iOS and Xamarin.Mac SDK   13.20.2.2 (817b6f72a)
+Xamarin.iOS and Xamarin.Mac Reference Assemblies and MSBuild support.
